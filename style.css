@@ -99,11 +99,11 @@ main {
 .game-img {
     width: 100%;
     border-radius: 5px;
-    box-shadow: 0 0 10px #8699a6; /*Changed from #FFFFFF */
+    box-shadow: 0 0 10px #c7d7e2; /*Changed from #FFFFFF */
 }
 
 .game-card {
-    background-color: #d4dbdf; /* Change from #ffffff */
+    background-color: #c7d7e2; /* Change from #ffffff */
     padding: 1%;
     margin: 1%;
     width: 300px;
