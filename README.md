@@ -1,23 +1,25 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *TidalGames*
 
-Submitted by: **Your Name Here**
+Submitted by: **Hailey Akinsola**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**TidalGames** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **3.5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Search Bar to browse for specific games.
+* [x] Navigation bar at the top to easily locate desired sections.
+* [x] Improved color scheme and visuals using CSS.
 
 ## Video Walkthrough
 
@@ -35,6 +37,10 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Getting comfortable with unfamiliar things like reduce, filter, and sort.
+- Ensuring that the layout (especially the stats and game cards) looked good and wrapped properly on all screen sizes (experimented with Flexbox and media queries).
+- Making the site visually appealing and interactive, such as adding hover effects, transitions, and responsive design, required several iterations and adjustments to CSS.
+- Adding a search bar that filters games in real time involved setting up an event listener for user input, filtering the games array based on the search term, and updating the display accordingly.
 
 ## License
 
